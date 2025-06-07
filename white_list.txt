@@ -1,2 +1,2 @@
-a@@||bugly.qq.com^$important
+@@||bugly.qq.com^$important
 @@||tracker.ai.xiaomi.com^$important
